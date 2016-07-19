@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    printf("I Can't Wait to Push This Project to Github");
 }
 
 - (void)didReceiveMemoryWarning {
